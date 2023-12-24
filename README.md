@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rahultewari1022@gmail.com**
 
-- ⚡ Fun fact: **The algorithm behind Google Search processes billions of queries per day, taking abo seconds to return results.ut 0.04**
+- ⚡ Fun fact: **The algorithm behind Google Search processes billions of queries per day, taking about 0.04 seconds to return results.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
